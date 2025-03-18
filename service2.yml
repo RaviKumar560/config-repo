@@ -1,2 +1,2 @@
-app:
-  message: "Hello from Service 2 Config!"
+
+  msg: "Hello from Service 2 Config!"
